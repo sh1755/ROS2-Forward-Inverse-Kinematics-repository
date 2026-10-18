@@ -186,7 +186,6 @@ You should see seven arm joint names and two finger joint names in `/joint_state
 
 **Dr Sajjad Hussain** — Robotics, Human–Robot Interaction and ROS 2 teaching.
 
-This repository documents a standalone ROS 2 FK/IK educational demonstration. Earlier physical-robot C++/libfranka research code is intentionally **not included**.
 
 ## Next improvements
 
